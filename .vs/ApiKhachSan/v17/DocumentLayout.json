@@ -1,0 +1,290 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\web\\ApiKhachSan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F05D89A-F8E2-425E-A5B2-7F4ADA2B60B5}|ApiKhachSan\\ApiKhachSan.csproj|d:\\web\\apikhachsan\\apikhachsan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F05D89A-F8E2-425E-A5B2-7F4ADA2B60B5}|ApiKhachSan\\ApiKhachSan.csproj|solutionrelative:apikhachsan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F05D89A-F8E2-425E-A5B2-7F4ADA2B60B5}|ApiKhachSan\\ApiKhachSan.csproj|d:\\web\\apikhachsan\\apikhachsan\\database\\datphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F05D89A-F8E2-425E-A5B2-7F4ADA2B60B5}|ApiKhachSan\\ApiKhachSan.csproj|solutionrelative:apikhachsan\\database\\datphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F05D89A-F8E2-425E-A5B2-7F4ADA2B60B5}|ApiKhachSan\\ApiKhachSan.csproj|d:\\web\\apikhachsan\\apikhachsan\\controller\\datphongcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F05D89A-F8E2-425E-A5B2-7F4ADA2B60B5}|ApiKhachSan\\ApiKhachSan.csproj|solutionrelative:apikhachsan\\controller\\datphongcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F05D89A-F8E2-425E-A5B2-7F4ADA2B60B5}|ApiKhachSan\\ApiKhachSan.csproj|d:\\web\\apikhachsan\\apikhachsan\\database\\phong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F05D89A-F8E2-425E-A5B2-7F4ADA2B60B5}|ApiKhachSan\\ApiKhachSan.csproj|solutionrelative:apikhachsan\\database\\phong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\web\\ApiKhachSan\\ApiKhachSan\\Migrations\\20240423091317_db002.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiKhachSan\\Migrations\\20240423091317_db002.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F05D89A-F8E2-425E-A5B2-7F4ADA2B60B5}|ApiKhachSan\\ApiKhachSan.csproj|d:\\web\\apikhachsan\\apikhachsan\\models\\datphongmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F05D89A-F8E2-425E-A5B2-7F4ADA2B60B5}|ApiKhachSan\\ApiKhachSan.csproj|solutionrelative:apikhachsan\\models\\datphongmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F05D89A-F8E2-425E-A5B2-7F4ADA2B60B5}|ApiKhachSan\\ApiKhachSan.csproj|d:\\web\\apikhachsan\\apikhachsan\\controller\\phongscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F05D89A-F8E2-425E-A5B2-7F4ADA2B60B5}|ApiKhachSan\\ApiKhachSan.csproj|solutionrelative:apikhachsan\\controller\\phongscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F05D89A-F8E2-425E-A5B2-7F4ADA2B60B5}|ApiKhachSan\\ApiKhachSan.csproj|d:\\web\\apikhachsan\\apikhachsan\\migrations\\20240423074237_db001.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F05D89A-F8E2-425E-A5B2-7F4ADA2B60B5}|ApiKhachSan\\ApiKhachSan.csproj|solutionrelative:apikhachsan\\migrations\\20240423074237_db001.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F05D89A-F8E2-425E-A5B2-7F4ADA2B60B5}|ApiKhachSan\\ApiKhachSan.csproj|d:\\web\\apikhachsan\\apikhachsan\\database\\dulichcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F05D89A-F8E2-425E-A5B2-7F4ADA2B60B5}|ApiKhachSan\\ApiKhachSan.csproj|solutionrelative:apikhachsan\\database\\dulichcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F05D89A-F8E2-425E-A5B2-7F4ADA2B60B5}|ApiKhachSan\\ApiKhachSan.csproj|d:\\web\\apikhachsan\\apikhachsan\\migrations\\dulichcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F05D89A-F8E2-425E-A5B2-7F4ADA2B60B5}|ApiKhachSan\\ApiKhachSan.csproj|solutionrelative:apikhachsan\\migrations\\dulichcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F05D89A-F8E2-425E-A5B2-7F4ADA2B60B5}|ApiKhachSan\\ApiKhachSan.csproj|d:\\web\\apikhachsan\\apikhachsan\\migrations\\20240417082758_dbinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F05D89A-F8E2-425E-A5B2-7F4ADA2B60B5}|ApiKhachSan\\ApiKhachSan.csproj|solutionrelative:apikhachsan\\migrations\\20240417082758_dbinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F05D89A-F8E2-425E-A5B2-7F4ADA2B60B5}|ApiKhachSan\\ApiKhachSan.csproj|d:\\web\\apikhachsan\\apikhachsan\\database\\khachsan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F05D89A-F8E2-425E-A5B2-7F4ADA2B60B5}|ApiKhachSan\\ApiKhachSan.csproj|solutionrelative:apikhachsan\\database\\khachsan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F05D89A-F8E2-425E-A5B2-7F4ADA2B60B5}|ApiKhachSan\\ApiKhachSan.csproj|d:\\web\\apikhachsan\\apikhachsan\\models\\khachsanmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F05D89A-F8E2-425E-A5B2-7F4ADA2B60B5}|ApiKhachSan\\ApiKhachSan.csproj|solutionrelative:apikhachsan\\models\\khachsanmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F05D89A-F8E2-425E-A5B2-7F4ADA2B60B5}|ApiKhachSan\\ApiKhachSan.csproj|d:\\web\\apikhachsan\\apikhachsan\\models\\phongmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F05D89A-F8E2-425E-A5B2-7F4ADA2B60B5}|ApiKhachSan\\ApiKhachSan.csproj|solutionrelative:apikhachsan\\models\\phongmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F05D89A-F8E2-425E-A5B2-7F4ADA2B60B5}|ApiKhachSan\\ApiKhachSan.csproj|d:\\web\\apikhachsan\\apikhachsan\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9F05D89A-F8E2-425E-A5B2-7F4ADA2B60B5}|ApiKhachSan\\ApiKhachSan.csproj|solutionrelative:apikhachsan\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F05D89A-F8E2-425E-A5B2-7F4ADA2B60B5}|ApiKhachSan\\ApiKhachSan.csproj|d:\\web\\apikhachsan\\apikhachsan\\controller\\khachsancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F05D89A-F8E2-425E-A5B2-7F4ADA2B60B5}|ApiKhachSan\\ApiKhachSan.csproj|solutionrelative:apikhachsan\\controller\\khachsancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Phong.cs",
+              "DocumentMoniker": "D:\\web\\ApiKhachSan\\ApiKhachSan\\Database\\Phong.cs",
+              "RelativeDocumentMoniker": "ApiKhachSan\\Database\\Phong.cs",
+              "ToolTip": "D:\\web\\ApiKhachSan\\ApiKhachSan\\Database\\Phong.cs",
+              "RelativeToolTip": "ApiKhachSan\\Database\\Phong.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAUwBMAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T07:12:54.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DatPhongController.cs",
+              "DocumentMoniker": "D:\\web\\ApiKhachSan\\ApiKhachSan\\Controller\\DatPhongController.cs",
+              "RelativeDocumentMoniker": "ApiKhachSan\\Controller\\DatPhongController.cs",
+              "ToolTip": "D:\\web\\ApiKhachSan\\ApiKhachSan\\Controller\\DatPhongController.cs",
+              "RelativeToolTip": "ApiKhachSan\\Controller\\DatPhongController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAIA3wBYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T07:04:54.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DatPhong.cs",
+              "DocumentMoniker": "D:\\web\\ApiKhachSan\\ApiKhachSan\\Database\\DatPhong.cs",
+              "RelativeDocumentMoniker": "ApiKhachSan\\Database\\DatPhong.cs",
+              "ToolTip": "D:\\web\\ApiKhachSan\\ApiKhachSan\\Database\\DatPhong.cs",
+              "RelativeToolTip": "ApiKhachSan\\Database\\DatPhong.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwA4AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T07:33:31.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\web\\ApiKhachSan\\ApiKhachSan\\Program.cs",
+              "RelativeDocumentMoniker": "ApiKhachSan\\Program.cs",
+              "ToolTip": "D:\\web\\ApiKhachSan\\ApiKhachSan\\Program.cs",
+              "RelativeToolTip": "ApiKhachSan\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T09:51:28.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240423091317_db002.cs",
+              "DocumentMoniker": "D:\\web\\ApiKhachSan\\ApiKhachSan\\Migrations\\20240423091317_db002.cs",
+              "RelativeDocumentMoniker": "ApiKhachSan\\Migrations\\20240423091317_db002.cs",
+              "ToolTip": "D:\\web\\ApiKhachSan\\ApiKhachSan\\Migrations\\20240423091317_db002.cs",
+              "RelativeToolTip": "ApiKhachSan\\Migrations\\20240423091317_db002.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T09:13:17.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PhongsController.cs",
+              "DocumentMoniker": "D:\\web\\ApiKhachSan\\ApiKhachSan\\Controller\\PhongsController.cs",
+              "RelativeDocumentMoniker": "ApiKhachSan\\Controller\\PhongsController.cs",
+              "ToolTip": "D:\\web\\ApiKhachSan\\ApiKhachSan\\Controller\\PhongsController.cs",
+              "RelativeToolTip": "ApiKhachSan\\Controller\\PhongsController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwC0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T07:04:52.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DatPhongModel.cs",
+              "DocumentMoniker": "D:\\web\\ApiKhachSan\\ApiKhachSan\\Models\\DatPhongModel.cs",
+              "RelativeDocumentMoniker": "ApiKhachSan\\Models\\DatPhongModel.cs",
+              "ToolTip": "D:\\web\\ApiKhachSan\\ApiKhachSan\\Models\\DatPhongModel.cs",
+              "RelativeToolTip": "ApiKhachSan\\Models\\DatPhongModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T07:04:26.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240423074237_db001.cs",
+              "DocumentMoniker": "D:\\web\\ApiKhachSan\\ApiKhachSan\\Migrations\\20240423074237_db001.cs",
+              "RelativeDocumentMoniker": "ApiKhachSan\\Migrations\\20240423074237_db001.cs",
+              "ToolTip": "D:\\web\\ApiKhachSan\\ApiKhachSan\\Migrations\\20240423074237_db001.cs",
+              "RelativeToolTip": "ApiKhachSan\\Migrations\\20240423074237_db001.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T07:42:38.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DuLichContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\web\\ApiKhachSan\\ApiKhachSan\\Migrations\\DuLichContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ApiKhachSan\\Migrations\\DuLichContextModelSnapshot.cs",
+              "ToolTip": "D:\\web\\ApiKhachSan\\ApiKhachSan\\Migrations\\DuLichContextModelSnapshot.cs",
+              "RelativeToolTip": "ApiKhachSan\\Migrations\\DuLichContextModelSnapshot.cs",
+              "ViewState": "AQIAAJoAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T07:41:49.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240417082758_dbInit.cs",
+              "DocumentMoniker": "D:\\web\\ApiKhachSan\\ApiKhachSan\\Migrations\\20240417082758_dbInit.cs",
+              "RelativeDocumentMoniker": "ApiKhachSan\\Migrations\\20240417082758_dbInit.cs",
+              "ToolTip": "D:\\web\\ApiKhachSan\\ApiKhachSan\\Migrations\\20240417082758_dbInit.cs",
+              "RelativeToolTip": "ApiKhachSan\\Migrations\\20240417082758_dbInit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T07:42:03.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DuLichContext.cs",
+              "DocumentMoniker": "D:\\web\\ApiKhachSan\\ApiKhachSan\\Database\\DuLichContext.cs",
+              "RelativeDocumentMoniker": "ApiKhachSan\\Database\\DuLichContext.cs",
+              "ToolTip": "D:\\web\\ApiKhachSan\\ApiKhachSan\\Database\\DuLichContext.cs",
+              "RelativeToolTip": "ApiKhachSan\\Database\\DuLichContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAASwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T07:38:08.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "KhachSan.cs",
+              "DocumentMoniker": "D:\\web\\ApiKhachSan\\ApiKhachSan\\Database\\KhachSan.cs",
+              "RelativeDocumentMoniker": "ApiKhachSan\\Database\\KhachSan.cs",
+              "ToolTip": "D:\\web\\ApiKhachSan\\ApiKhachSan\\Database\\KhachSan.cs",
+              "RelativeToolTip": "ApiKhachSan\\Database\\KhachSan.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA2wBIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T07:12:19.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "KhachSanModel.cs",
+              "DocumentMoniker": "D:\\web\\ApiKhachSan\\ApiKhachSan\\Models\\KhachSanModel.cs",
+              "RelativeDocumentMoniker": "ApiKhachSan\\Models\\KhachSanModel.cs",
+              "ToolTip": "D:\\web\\ApiKhachSan\\ApiKhachSan\\Models\\KhachSanModel.cs",
+              "RelativeToolTip": "ApiKhachSan\\Models\\KhachSanModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T07:39:39.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PhongModel.cs",
+              "DocumentMoniker": "D:\\web\\ApiKhachSan\\ApiKhachSan\\Models\\PhongModel.cs",
+              "RelativeDocumentMoniker": "ApiKhachSan\\Models\\PhongModel.cs",
+              "ToolTip": "D:\\web\\ApiKhachSan\\ApiKhachSan\\Models\\PhongModel.cs",
+              "RelativeToolTip": "ApiKhachSan\\Models\\PhongModel.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T07:03:59.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "KhachSanController.cs",
+              "DocumentMoniker": "D:\\web\\ApiKhachSan\\ApiKhachSan\\Controller\\KhachSanController.cs",
+              "RelativeDocumentMoniker": "ApiKhachSan\\Controller\\KhachSanController.cs",
+              "ToolTip": "D:\\web\\ApiKhachSan\\ApiKhachSan\\Controller\\KhachSanController.cs",
+              "RelativeToolTip": "ApiKhachSan\\Controller\\KhachSanController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T09:58:16.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\web\\ApiKhachSan\\ApiKhachSan\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiKhachSan\\appsettings.json",
+              "ToolTip": "D:\\web\\ApiKhachSan\\ApiKhachSan\\appsettings.json",
+              "RelativeToolTip": "ApiKhachSan\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-19T09:50:18.15Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
